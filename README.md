@@ -1,2 +1,2 @@
-# shiva
+# chair
 Blue velvet chair
